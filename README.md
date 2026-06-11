@@ -1,5 +1,7 @@
 # PrintAnywhere Agent — Releases
 
+> Maintained by Dhruvanta Systems Private Limited.
+
 Official **signed** Windows installers for the PrintAnywhere Agent by **Dhruvanta Systems Private Limited**. This repository hosts release binaries only; the source code is maintained privately.
 
 ## Download
